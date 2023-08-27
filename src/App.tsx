@@ -1,4 +1,6 @@
-function App() {
+import { FC } from 'react'
+
+const App:FC = () => {
   return (
     <div className="App" role="main">
       <article className="App-article">
